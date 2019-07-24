@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 
+ Transitional//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”> 
+ <html xmlns=”http://www.w3.org/1999/xhtml”> 
+  <head> 
+    <title></title> 
+  </head> 
+  <body> 
+   <p id="ResultsP"></p>  
+   <script type="text/javascript">
+
+        function add(num1,num2){
+            return num1+num2;
+        }
+        //document.writeln(add(2,4));
+
+        var multiply = (num1,num2) => {
+            return num1*num2;
+        };
+        //document.writeln(multiply(2,4));
+
+        function times(factor){
+            function noOfTimes(num){
+                return factor*num;
+            }
+            return noOfTimes;
+        }
+
+        var twoTimes=times(2);
+        var threeTimes=times(3);
+
+        document.writeln(twoTimes(2));
+        document.writeln(threeTimes(2));
+
+   </script> 
+  </body> 
+<html> 
