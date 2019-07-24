@@ -1,1 +1,13 @@
 Hello World
+
+
+function m(){  
+window.value=100;
+//console.log(window.value);  
+}
+
+function n(){
+    console.log(window.value);
+}
+
+n();
