@@ -1,8 +1,11 @@
 Hello World
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 1e3516f... new js files added
+=======
+>>>>>>> 1633438... new files added
 
 
 function m(){  
@@ -15,9 +18,13 @@ function n(){
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 n();
 =======
 >>>>>>> 4febf07... added
 =======
 n();
 >>>>>>> 1e3516f... new js files added
+=======
+n();
+>>>>>>> 1633438... new files added
