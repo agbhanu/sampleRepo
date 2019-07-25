@@ -1,5 +1,8 @@
 Hello World
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1e3516f... new js files added
 
 
 function m(){  
@@ -11,6 +14,10 @@ function n(){
     console.log(window.value);
 }
 
+<<<<<<< HEAD
 n();
 =======
 >>>>>>> 4febf07... added
+=======
+n();
+>>>>>>> 1e3516f... new js files added
