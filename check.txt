@@ -2,5 +2,8 @@ Hello World
 <<<<<<< HEAD
 changed in file
 modified
+<<<<<<< HEAD
 =======
 >>>>>>> 57ceff4... added
+=======
+>>>>>>> 823a110... modified check.txt
