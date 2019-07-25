@@ -1,3 +1,6 @@
 Hello World
+<<<<<<< HEAD
 changed in file
 modified
+=======
+>>>>>>> 57ceff4... added
